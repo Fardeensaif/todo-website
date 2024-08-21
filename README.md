@@ -1,7 +1,14 @@
 Name: Fardeen Khan
+
+
 Company: CODTECH IT SOLUTIONS
+
+
 Domain: Web Development
+
+
 Duration: july-August 2024
+
 Mentor: 
 
 
