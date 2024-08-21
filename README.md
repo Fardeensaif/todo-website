@@ -19,15 +19,12 @@ The To-Do List web application is a simple and intuitive tool designed to help u
 
 #### **Technology Stack**
 - **Frontend:** HTML, CSS, JavaScript for creating a responsive and interactive user interface.
-- **Backend (Optional):** A backend server using Node.js with Express or another server-side technology to handle data storage and user authentication.
-- **Database (Optional):** A database such as MongoDB or SQLite to store user tasks and related information persistently.
-  
+
 #### **User Flow**
-1. **Login/Signup (Optional):** Users sign up or log in to access their personalized to-do list.
 2. **Dashboard:** Users are presented with an overview of their tasks, categorized by priority or due date.
 3. **Add Task:** Users can add a new task by filling out a form with the task title, description, and other optional details like due date and category.
 4. **Manage Tasks:** Users can edit, mark as complete, or delete tasks directly from the dashboard.
-5. **Logout (Optional):** Users can log out, securely saving their progress for the next session.
+
 
 #### **Project Goals**
 - **Usability:** Create an intuitive interface that allows users to easily manage their tasks.
